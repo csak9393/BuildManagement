@@ -1,7 +1,8 @@
-BuildManagement
+Build Management
 ===============
 
 Continious Integration
+----------------------
 
 *Continuous Integration*, in short CI, is a practice used in software engineering, where all developers integrate their code into a share repository several times a day. The main aim of CI is to prevent integration problems, it allows teams to detect problems quickly and locate them more easily. This is due to the fact that developers who are working on a code together will encounter the so called integration problems, which can easily hold back a project from its initial schedule or fail the whole project.
 
